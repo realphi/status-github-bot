@@ -2,3 +2,9 @@ _extends: probot-settings
 
 github-team:
   slug: 'go'
+
+pr-checklist:
+  title: 'dssdzfsdzf'
+  checklist:
+    - "all all"
+    - "akks sl"
